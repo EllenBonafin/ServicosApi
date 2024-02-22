@@ -2,7 +2,7 @@
   "servico": [
     {
       "tipo_manutencao": "Preventiva",
-      "descrição": "Teste Wiki2",
+      "descrição": "Teste Wiki1",
       "id_serviço": "21",
       "servico": "Troca de penu",
       "hodometro": 10.0,
@@ -26,7 +26,7 @@
     },
     {
       "tipo_manutencao": "Corretiva",
-      "descrição": "Teste Wiki2",
+      "descrição": "Teste Wiki3",
       "id_serviço": "22",
       "servico": "Troca de oleo",
       "hodometro": "",
@@ -35,6 +35,19 @@
       "realizacao": "22-12-2024",
       "Servico_c": "2/3",
       "valor": 200
+    },
+    {
+      "tipo_manutencao": "Corretiva",
+      "descrição": "Teste Wiki4",
+      "id_serviço": "22",
+      "servico": "Troca de oleo",
+      "hodometro": "",
+      "horimetro": "",
+      "periodo": "27-12-2024",
+      "realizacao": "22-12-2024",
+      "Servico_c": "Troca de oleo",
+      "valor": 200
     }
+
   ]
 }
