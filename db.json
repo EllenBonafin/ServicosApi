@@ -1,7 +1,7 @@
 {
   "servico": [
     {
-      "tipo_manutencao": "preventiva",
+      "tipo_manutencao": "Preventiva",
       "descrição": "Teste Wiki2",
       "id_serviço": "21",
       "servico": "Troca de penu",
@@ -12,7 +12,7 @@
       "valor": 200
     },
     {
-      "tipo_manutencao": "preventiva",
+      "tipo_manutencao": "Corretiva",
       "descrição": "Teste Wiki2",
       "id_serviço": "22",
       "servico": "Troca de oleo",
